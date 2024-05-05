@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, bem-vindo ao meu GitHub! 👋
 
-<!--
-**meiotera/meiotera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Renan Ferreira e sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Tenho conhecimentos em NodeJS, Javascript, CSS, HTML e MongoDB.
 
-Here are some ideas to get you started:
+Além dos meus estudos, tenho uma experiência significativa na área de TI. Trabalho como Gerente de Suporte em Informática há 15 anos, o que me proporcionou uma sólida base de conhecimentos e habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens de Programação**: NodeJS, Javascript
+- **Desenvolvimento Web**: HTML, CSS, Bootstrap
+- **Banco de Dados**: MongoDB
+
+## 📚 Atualmente Estudando
+
+Estou sempre aprendendo e atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e banco de dados.
+
+## 📫 Entre em Contato
+- ** renan.programador@outlook.com
+
+Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou se quiser conversar sobre tecnologia. Estou sempre aberto a novas oportunidades e colaborações.
+
+Obrigado por visitar meu perfil!
