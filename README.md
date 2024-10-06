@@ -13,6 +13,7 @@ Além dos meus estudos, tenho uma experiência significativa na área de TI. Tra
 ## 📚 Atualmente Estudando
 
 Estou sempre aprendendo e atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e banco de dados.
+Estudando: Ruby e Docker para expandir minhas habilidades.
 
 ## 📫 Entre em Contato
 - renan.programador@outlook.com
