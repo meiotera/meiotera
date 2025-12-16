@@ -7,7 +7,7 @@ Além dos meus estudos, tenho uma experiência significativa na área de TI. Tra
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de Programação**: NodeJS, Javascript
-- **Desenvolvimento Web**: HTML, CSS, Bootstrap
+- **Desenvolvimento Web**: React, HTML, CSS, Bootstrap
 - **Banco de Dados**: MongoDB
 
 ## 📚 Atualmente Estudando
